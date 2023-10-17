@@ -1,6 +1,6 @@
 ### Hello, I'm Pedro!
 
-💻 &nbsp;Frontend Engineer at [Quadri](http://www.quadrisystems.com.br/)
+💻 &nbsp;Frontend Engineer at [Quadri](http://www.quadrisystems.com.br/) <br>
 🏡 &nbsp; Brazilian, Based in Rio de Janeiro, RJ 🌎
 
 ### You can find me on
