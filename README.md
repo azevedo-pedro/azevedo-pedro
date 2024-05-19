@@ -14,7 +14,8 @@
 ![Sass](https://img.shields.io/badge/-Sass-39404b?style=flat&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-39404b?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-39404b?style=flat&logo=typescript)
-![Ruby](https://img.shields.io/badge/-Ruby-39404b?style=flat&logo=ruby)
+![Ruby](https://img.shields.io/badge/-Ruby-39404b?style=flat&logo=ruby&logoColor=CC342D)
+![Ruby](https://img.shields.io/badge/-Ruby_on_Rails-39404b?style=flat&logo=rubyonrails&logoColor=D30001)
 ![Git](https://img.shields.io/badge/-Git-39404b?style=flat&logo=git)
 
 ![React](https://img.shields.io/badge/-React-39404b?style=flat&logo=react)
