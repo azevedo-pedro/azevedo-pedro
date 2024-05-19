@@ -1,6 +1,6 @@
 ### Hello, I'm Pedro!
 
-💻 &nbsp;Frontend Engineer <br>
+💻 &nbsp; Software Engineer <br>
 🏡 &nbsp; Brazilian, Based in Rio de Janeiro, RJ 🌎
 
 ### You can find me on
