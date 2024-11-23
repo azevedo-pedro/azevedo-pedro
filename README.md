@@ -14,13 +14,10 @@
 ![Sass](https://img.shields.io/badge/-Sass-39404b?style=flat&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-39404b?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-39404b?style=flat&logo=typescript)
-![Ruby](https://img.shields.io/badge/-Ruby-39404b?style=flat&logo=ruby&logoColor=CC342D)
-![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-39404b?style=flat&logo=rubyonrails&logoColor=D30001)
 ![Git](https://img.shields.io/badge/-Git-39404b?style=flat&logo=git)
 
 ![React](https://img.shields.io/badge/-React-39404b?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-39404b?style=flat&logo=next.js)
-![Remix](https://img.shields.io/badge/-Remix-39404b?style=flat&logo=remix)
 
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-39404b?style=flat&logo=styledcomponents)
 ![Storybook](https://img.shields.io/badge/-Storybook-39404b?style=flat&logo=storybook)
